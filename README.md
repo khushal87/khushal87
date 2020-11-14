@@ -19,4 +19,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   14 hrs 46 mins  ████████████████████▒░░░░   81.81 % 
+C++          2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
 <!--END_SECTION:waka-->
