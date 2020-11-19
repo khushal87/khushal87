@@ -9,7 +9,7 @@
 
 - 🤔 Anyone looking for help can reach out.
 
-- 💬 Ask me about *Javascript,MERN, softwares that scale.*
+- 💬 Ask me about *Javascript, MERN stack, softwares that scale.*
 
 - 📫 How to reach me: **khushal.agarwal987@gmail.com**
 
