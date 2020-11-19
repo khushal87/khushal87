@@ -27,6 +27,5 @@ JSON         8 mins          ▒░░░░░░░░░░░░░░░░
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal87&layout=compact" alt="khushal87" /></p>
-
-[![Khushal's github stats](https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true)](https://github.com/khushal87)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal87&layout=compact" alt="khushal87" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
