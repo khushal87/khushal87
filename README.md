@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 12 mins   ██████████████████████░░░   88.10 % 
-C++          54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JavaScript   7 hrs 27 mins   █████████████████████▒░░░   84.70 % 
+C++          1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
