@@ -1,22 +1,22 @@
-### Hi there👋
+<h1 align="center">Hi 👋, I'm Khushal Agarwal</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal87&label=Profile Views&color=green&style=plastic" alt="khushal87" /> </p>
 
-[![Khushal's github stats](https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true)](https://github.com/khushal87)
-<!--
-**khushal87/khushal87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on *developing skills, javascript, side projects*.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning anything *related to Javascript, GraphQL.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Anyone looking for help can reach out.
+
+- 💬 Ask me about *Javascript,MERN, softwares that scale.*
+
+- 📫 How to reach me: **khushal.agarwal987@gmail.com**
+
+- ⚡ Fun fact: *I love Javascript <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>*
+
+
+
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -27,3 +27,6 @@ JSON         8 mins          ▒░░░░░░░░░░░░░░░░
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal87&layout=compact" alt="khushal87" /></p>
+
+[![Khushal's github stats](https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true)](https://github.com/khushal87)
