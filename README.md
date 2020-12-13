@@ -21,9 +21,9 @@
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Bash    4 hrs 28 mins   █████████████░░░░░░░░░░░░   52.54 % 
-C       4 hrs 1 min     ███████████▓░░░░░░░░░░░░░   47.17 % 
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Bash         3 hrs 54 mins   █████████████░░░░░░░░░░░░   52.38 % 
+C            3 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   47.28 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
