@@ -21,8 +21,8 @@
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-C++          8 hrs 40 mins   ██████████████████░░░░░░░   72.18 % 
-JavaScript   3 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+C++          10 hrs 42 mins  ███████████████████░░░░░░   76.18 % 
+JavaScript   3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
 ```
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
