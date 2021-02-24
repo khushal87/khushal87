@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **khushal.agarwal987@gmail.com**
 
-- ⚡ Fun fact: *I love Javascript <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>*
+- ⚡ Fun fact: *I love Javascript 
 
 
 
