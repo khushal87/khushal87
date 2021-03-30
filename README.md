@@ -21,11 +21,11 @@
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   10 hrs 12 mins  ██████████████▓░░░░░░░░░░   58.68 % 
-JavaScript   3 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 % 
-JSON         1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-C++          1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript   8 hrs 18 mins   ██████████████░░░░░░░░░░░   55.52 % 
+JavaScript   3 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
+JSON         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+C++          1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
