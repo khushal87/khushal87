@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *Javascript, MERN stack, React Native and softwares that scale.*
 
-- 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com** or [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/khushal87)
+- 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com** or [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khushal87)
 
 - ⚡ Fun fact: *I love Javascript* 
 
