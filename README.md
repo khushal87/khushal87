@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushal Agarwal</h1>
+<p align="center">
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=khushal87&hide_border=true'/>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal87&label=Profile Views&color=green&style=plastic" alt="khushal87" /> </p>
