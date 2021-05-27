@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushal Agarwal</h1>
 <p align="center">
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=khushal87&hide_border=true'/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=khushal87&hide_border=true'/>
 </p>
 
 <p align="center">
@@ -9,20 +9,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal87&label=Profile Views&color=green&style=plastic" alt="khushal87" /> </p>
 
+
+### Experience
+- I am a **3rd Year Undergraduate** student at Manipal University Jaipur
+- Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200)
+- Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_
+- Former Intern at Farziengineer
+- Secured winning positions at 3+ Hackathons
+- Worked on projects - Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate
+
+###  About me
 - 🔭 I’m currently working on *developing skills, javascript, side projects, open source*.
-
 - 🌱 I’m currently learning anything *related to Javascript, GraphQL, React Native, React.*
-
 - 🤔 Anyone looking for help can reach out.
-
 - 💬 Ask me about *Javascript, MERN stack, React Native and softwares that scale.*
-
-- 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com** or [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khushal87)
-
+- 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com**
 - ⚡ Fun fact: *I love Javascript* 
-
-
-
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -36,9 +38,8 @@ JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
 
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-
+# Connect with me
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/khushal.agarwal_70/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/khushal87) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10826415/khushal-agarwal) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://khushal87.medium.com/) | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode logo" height="32">](https://hashnode.com/@khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:khushal.agarwal987@gmail.com)
+
+
+
