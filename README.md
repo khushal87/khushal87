@@ -12,11 +12,12 @@
 
 ### Experience
 - I am a **3rd Year Undergraduate** student at Manipal University Jaipur
-- Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200)
-- Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_
-- Former Intern at Farziengineer
-- Secured winning positions at 3+ Hackathons
-- Worked on projects - Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate
+- Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
+- Open source contributor at [**@react-native-elements**](https://github.com/react-native-elements), [**@mantinedev**](https://github.com/mantinedev).
+- Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
+- Former Intern at Farziengineer.
+- Secured winning positions at 3+ Hackathons.
+- Worked on projects - Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate.
 
 ###  About me
 - 🔭 I’m currently working on *developing skills, javascript, side projects, open source*.
