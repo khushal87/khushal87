@@ -11,7 +11,7 @@
 
 
 ### Experience
-- I am a **3rd Year Undergraduate** student at Manipal University Jaipur
+- I am a **3rd Year Computer Science Undergraduate** student at Manipal University Jaipur.
 - Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
 - Open source contributor at [**@react-native-elements**](https://github.com/react-native-elements), [**@mantinedev**](https://github.com/mantinedev).
 - Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
@@ -20,12 +20,12 @@
 - Worked on projects - Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate.
 
 ###  About me
-- 🔭 I’m currently working on *developing skills, javascript, side projects, open source*.
+- 🔭 I’m currently working on *developing skills, javascript, typescript, side projects, open source*.
 - 🌱 I’m currently learning anything *related to Javascript, GraphQL, React Native, React.*
 - 🤔 Anyone looking for help can reach out.
-- 💬 Ask me about *Javascript, MERN stack, React Native and softwares that scale.*
+- 💬 Ask me about *Javascript, Typescript MERN stack, React Native and softwares that scale.*
 - 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com**
-- ⚡ Fun fact: *I love Javascript* 
+- ⚡ Fun fact: *I love JavaScript ❤️* 
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
