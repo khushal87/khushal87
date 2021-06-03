@@ -17,7 +17,7 @@
 - Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
 - Former Intern at Farziengineer.
 - Secured winning positions at 3+ Hackathons.
-- Worked on projects - Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate.
+- Worked on projects - **Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate**.
 
 ###  About me
 - 🔭 I’m currently working on *developing skills, javascript, typescript, side projects, open source*.
