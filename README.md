@@ -74,8 +74,7 @@
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-JSON         17 mins         ██████████████▓░░░░░░░░░░   58.24 % 
-Markdown     12 mins         ██████████░░░░░░░░░░░░░░░   39.61 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
