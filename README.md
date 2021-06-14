@@ -27,7 +27,12 @@
 - 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com**
 - ⚡ Fun fact: *I love JavaScript ❤️* 
 
-## Skills
+### 📚 Recent Blog Posts
+- [Linking a custom domain from Google domains to Vercel app.](https://khushal87.medium.com/linking-a-custom-domain-from-google-domains-to-vercel-app-961652302107)
+- [Implementing Authentication in React using React Context API — Part 2.](https://khushal87.medium.com/implementing-authentication-in-react-using-react-context-api-part-2-react-context-api-f0c3d8e4d0e)
+- [Implementing Authentication in React using React Context API — Part 1.](https://khushal87.medium.com/implementing-authentication-in-react-using-react-context-api-part-1-react-context-api-6af552b72931)
+
+### Skills
 <div style="display:flex;flex-direction:row">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -42,7 +47,7 @@
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
-## Languages
+### Languages
 <div style="display:flex;flex-direction:row">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,7 +56,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
-## Tools
+### Tools
 <div style="display:flex;flex-direction:row">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -62,24 +67,23 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-## Databases
+### Databases
 <div style="display:flex;flex-direction:row">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-
-
-
-## Weekly Development Breakdown
+### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
+-->
 
-# Connect with me
+### Connect with me
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/khushal.agarwal_70/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/khushal87) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10826415/khushal-agarwal) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://khushal87.medium.com/) | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode logo" height="32">](https://hashnode.com/@khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:khushal.agarwal987@gmail.com)
 
 
