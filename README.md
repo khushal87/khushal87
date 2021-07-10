@@ -76,11 +76,11 @@
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.57 % 
-C++          4 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.00 % 
-JSON         1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Markdown     1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-TypeScript   1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JavaScript   5 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.52 % 
+C++          3 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.81 % 
+TypeScript   2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 % 
+JSON         2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 <!--END_SECTION:waka-->
 <!--
