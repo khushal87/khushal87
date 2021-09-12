@@ -11,8 +11,9 @@
 
 
 ### Experience
-- I am a **3rd Year Computer Science Undergraduate** student at Manipal University Jaipur.
-- Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
+- I am a **Final Year Computer Science Undergraduate** student at Manipal University Jaipur.
+- Currently working at [**@getstream**](https://github.com/GetStream/) as React Native Developer.
+- Worked as a Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
 - Open source contributor at [**@react-native-elements**](https://github.com/react-native-elements), [**@mantinedev**](https://github.com/mantinedev).
 - Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
 - Former Intern at **Farziengineer**.
@@ -28,6 +29,7 @@
 - ⚡ Fun fact: *I love JavaScript ❤️* 
 
 ### 📚 Recent Blog Posts
+- [GSoC'21 Final Blog](https://github.com/khushal87/google-summer-of-code)
 - [Linking a custom domain from Google domains to Vercel app.](https://khushal87.medium.com/linking-a-custom-domain-from-google-domains-to-vercel-app-961652302107)
 - [Implementing Authentication in React using React Context API — Part 2.](https://khushal87.medium.com/implementing-authentication-in-react-using-react-context-api-part-2-react-context-api-f0c3d8e4d0e)
 - [Implementing Authentication in React using React Context API — Part 1.](https://khushal87.medium.com/implementing-authentication-in-react-using-react-context-api-part-1-react-context-api-6af552b72931)
