@@ -78,9 +78,7 @@
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 35 mins    ██████████████████░░░░░░░   71.92 % 
-JSON         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Properties   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
