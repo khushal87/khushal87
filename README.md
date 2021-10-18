@@ -78,7 +78,7 @@
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-XML     39 mins         █████████████████████████   99.67 % 
+XML     27 mins         █████████████████████████   99.53 % 
 ```
 <!--END_SECTION:waka-->
 <!--
