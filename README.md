@@ -78,11 +78,11 @@
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 53 mins  ████████████████▒░░░░░░░░   65.72 % 
-MDX          4 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-JSON         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+TypeScript   6 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.32 % 
+MDX          4 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 % 
+JSON         1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 <!--
