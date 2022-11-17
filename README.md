@@ -11,14 +11,14 @@
 
 
 ### Experience
-- I am a **Final Year Computer Science Undergraduate** student at Manipal University Jaipur.
-- Currently working at [**@getstream**](https://github.com/GetStream/) as React Native Developer.
+- Currently working at [**@getstream**](https://github.com/GetStream/) on React Native, and other Front-end SDKs and involved in front-end tooling to scale Chat and Video infrastructure.
+- I am a **Computer Science Undergraduate** from Manipal University Jaipur.
 - Worked as a Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
 - Open source contributor at [**@react-native-elements**](https://github.com/react-native-elements), [**@mantinedev**](https://github.com/mantinedev).
 - Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
 - Former Intern at **Farziengineer**.
 - Secured winning positions at **3+ Hackathons** at *SAP Labs, Hackerearth, NIIT University*.
-- Worked on projects - **Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate**.
+- Worked on projects - **Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate, etc.**.
 
 ###  About me
 - 🔭 I’m currently working on *developing skills, javascript, typescript, side projects, open source*.
@@ -26,7 +26,7 @@
 - 🤔 Anyone looking for help can reach out.
 - 💬 Ask me about *Javascript, Typescript MERN stack, React Native and softwares that scale.*
 - 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com**
-- ⚡ Fun fact: *I love JavaScript ❤️* 
+- ⚡ Fun fact: *I love JavaScript and Front-end tooling.❤️* 
 
 ### 📚 Recent Blog Posts
 - [GSoC'21 Final Blog](https://github.com/khushal87/google-summer-of-code)
@@ -74,16 +74,6 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-### Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
--->
 
 ### Connect with me
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/khushal.agarwal_70/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/khushal87) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/10826415/khushal-agarwal) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://khushal87.medium.com/) | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode logo" height="32">](https://hashnode.com/@khushal87) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:khushal.agarwal987@gmail.com)
