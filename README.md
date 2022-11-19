@@ -12,7 +12,7 @@
 
 ### Experience
 - Currently working at [**@getstream**](https://github.com/GetStream/) on React Native, and other Front-end SDKs and involved in front-end tooling to scale Chat and Video infrastructure.
-- I am a **Computer Science Undergraduate** from Manipal University Jaipur.
+- I am a **Computer Science Graduate** from Manipal University Jaipur.
 - Worked as a Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
 - Open source contributor at [**@react-native-elements**](https://github.com/react-native-elements), [**@mantinedev**](https://github.com/mantinedev).
 - Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
