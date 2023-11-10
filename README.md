@@ -7,8 +7,6 @@
     <a href="https://www.buymeacoffee.com/khushal87" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal87&label=Profile Views&color=green&style=plastic" alt="khushal87" /> </p>
-
 
 ### Experience
 - Currently working at [**@getstream**](https://github.com/GetStream/) on React Native, and other Front-end SDKs and involved in front-end tooling to scale Chat and Video infrastructure.
